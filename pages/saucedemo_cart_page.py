@@ -10,3 +10,4 @@ class CartPage:
 
     def click_checkout(self):
         self.checkout_button.click()
+        

@@ -19,4 +19,4 @@ class LoginPage:
 
     def check_success_login(self):
         expect(self.username_field).to_be_visible()
-    
+        

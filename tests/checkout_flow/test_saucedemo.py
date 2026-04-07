@@ -33,4 +33,4 @@ def test_checkout_flow(logged_in_page):
     checkout_overview_page.finish()
 
     checkout_complete_page.check_loaded()
-
+    

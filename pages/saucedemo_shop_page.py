@@ -13,6 +13,4 @@ class ShopPage:
 
     def open_cart(self):
         self.cart_button.click()
-    
-
-    
+        

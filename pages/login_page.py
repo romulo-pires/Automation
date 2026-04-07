@@ -32,3 +32,4 @@ class LoginPage:
     def check_successful_logout(self):
         self.logout_button.click()
         expect(self.flash_message).to_contain_text("You logged out of the secure area!")
+        

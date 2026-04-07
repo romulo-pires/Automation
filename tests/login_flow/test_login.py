@@ -27,3 +27,4 @@ def test_logout(page):
     login_page.input_login("tomsmith", "SuperSecretPassword!")
     login_page.check_successful_login()
     login_page.check_successful_logout()
+    
