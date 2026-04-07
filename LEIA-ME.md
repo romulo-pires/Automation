@@ -18,8 +18,8 @@ Projeto simples de testes de API utilizando Python, Playwright e Pytest.
 ## Setup
 
 1. Clone o repositório:
-    git clone 
-    cd 
+    git clone "https://github.com/romulo-pires/Automation"
+    cd Automation
 
 2. Instale as dependências
     pip install -r requirements.txt
